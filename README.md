@@ -1,5 +1,5 @@
 # RPI_PCD8544_Display
-Raspberry Pi code for PCD8544 Display
+PCD8544 Display code for Raspberry Pi
 
 ### command for compile
 Before compile, you need install wiringPi library first (https://github.com/WiringPi/WiringPi)
